@@ -10,7 +10,6 @@ public class operators {
 	  System.out.println(a&b);
 	  System.out.println(a|b);
 	  System.out.println(a^b);
-	  int x=7,y=4;
 	  System.out.println(a==b);
 	  System.out.println(!(a!=b));
 	  System.out.println(a!=b);
